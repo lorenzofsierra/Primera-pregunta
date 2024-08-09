@@ -34,8 +34,8 @@ const questions = [
         answer: "25"
     },
     {
-        question: "¿Cuál es la suma de los ángulos de un triángulo?",
-        answer: "180"
+        question: "¿Cuánto es 7²?",
+        answer: "49"
     },
     {
         question: "¿Qué es 2³?",
