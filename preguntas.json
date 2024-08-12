@@ -1,0 +1,42 @@
+[
+  {
+    "question":"¿Cuánto  es la suma de 8+5 ?",
+    "answer":"13"
+  },
+  {
+    "question":"¿Cuánto es la suma de 12-7 ?",
+    "answer":"5"
+  },
+  {
+    "question":"¿Cuánto es la suma de 4x6 ?",
+    "answer":"24"
+  },
+  {
+    "question":"¿Cuánto es la suma de 20\/4 ?",
+    "answer":"5"
+  },
+  {
+    "question":"¿Cuánto es la suma de 9+6 ?",
+    "answer":"15"
+  },
+  {
+    "question":"¿Cuánto es la suma de 15-8 ?",
+    "answer":"7"
+  },
+  {
+    "question":"¿Cuánto es la suma de 7x3 ?",
+    "answer":"21"
+  },
+  {
+    "question":"¿Cuánto es la suma de 9-3 ?",
+    "answer":"6"
+  },
+  {
+    "question":"¿Cuánto es la suma de 14+2 ?",
+    "answer":"16"
+  },
+  {
+    "question":"¿Cuánto es la suma de 10-4 ?",
+    "answer":"6"
+  }
+]
